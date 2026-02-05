@@ -1,0 +1,10 @@
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Eduardo Canos', '452.312.564-07', 3000.00, '2005-01-02', 0);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Ryan Adler', '382.572.469-04', 7000.00, '2001-07-20', 2);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Mariana Lopes', '518.934.276-11', 4200.00, '1998-03-15', 1);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Carlos Henrique', '294.761.850-09', 5500.00, '1995-11-08', 0);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Fernanda Souza', '603.218.497-22', 3800.00, '2000-06-27', 1);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Lucas Almeida', '147.982.365-44', 2600.00, '2003-09-12', 0);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Patrícia Gomes', '875.431.209-55', 6100.00, '1992-02-04', 3);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Rafael Nogueira', '329.640.718-66', 4700.00, '1997-12-19', 2);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Juliana Ribeiro', '912.564.380-77', 5200.00, '1994-05-30', 1);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Bruno Martins', '456.709.128-88', 6800.00, '1990-08-21', 2);
